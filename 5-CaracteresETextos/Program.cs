@@ -37,10 +37,9 @@ namespace _5_CaracteresETextos
             Console.WriteLine(cursosProgramação);
 
             //Ao utilizar o "@" o compilador ele considera tudo entre os pas de aspas como texto, inclusive os espaços 
-            string cursosProgramação2 = 
-               @"- .Net
-                - Java 
-                - Javascript";
+            string cursosProgramação2 = @"- .Net
+            - Java 
+            - Javascript";
             Console.WriteLine(cursosProgramação2);
             
 
