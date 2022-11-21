@@ -1,0 +1,8 @@
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb
