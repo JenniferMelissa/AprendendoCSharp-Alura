@@ -47,7 +47,7 @@ namespace P13_ForEncadeado
                 for (int contadorColuna = 0; contadorColuna <= contadorLinha; contadorColuna++)
                 {
                     Console.Write("*");
-                   
+                  
                     //Break - Quebra o laço de repetição, apenas no laço de repetição que ele se encontra
                 }
 
