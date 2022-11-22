@@ -1,0 +1,8 @@
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\bin\Debug\P13-Break.exe.config
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\bin\Debug\P13-Break.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\bin\Debug\P13-Break.pdb
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\obj\Debug\P13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\obj\Debug\P13-Break.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\P13-Break\obj\Debug\P13-Break.pdb
