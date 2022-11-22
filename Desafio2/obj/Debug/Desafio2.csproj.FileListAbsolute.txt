@@ -1,0 +1,8 @@
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\bin\Debug\Desafio2.exe.config
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\bin\Debug\Desafio2.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\bin\Debug\Desafio2.pdb
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\obj\Debug\Desafio2.csproj.SuggestedBindingRedirects.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\obj\Debug\Desafio2.exe
+D:\Users\jennifer.sales\Desktop\AprendendoCSharp\Desafio2\obj\Debug\Desafio2.pdb
